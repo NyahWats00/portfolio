@@ -1,4 +1,4 @@
- 
+
 img {
 
     display: block;
@@ -30,11 +30,11 @@ img {
 
 .project-boxes {
     display: flex; 
-    justify-content:
+    justify-content:center;
 }
 
 .project-box {
-    width: calc(33.33% - 20px), 
+    width: calc(33.33% - 20px);
     text-align: left;
     padding: 10px;
     border-radius: 8px;
